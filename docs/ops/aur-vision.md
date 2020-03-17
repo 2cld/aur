@@ -21,7 +21,7 @@ I am looking for a touch-stone statement help guide all missions toward the visi
 2. Create and validate a site construction process that could scale with Grundy County Utility and other potential Grundy County like models.
 3. Create area social awareness, acceptance and utilization of the transactional economy advantages blockchain technology can bring.
 
-### AUR Melrose Task Que
+### AUR Melrose Task Que [Link to more detail](https://docs.google.com/spreadsheets/d/1kPnRBxUVTdoFsJWElXbdl48PXVNKeJyo44naDii_eVA)
 
 | P | Task              | Who | EHr | Target     | Resources |
 |---|-------------------|-----|-----|------------|-----------|
