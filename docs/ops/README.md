@@ -2,7 +2,7 @@
 
 # aur ops
 
-There is no glory in helping ops (the plumbers of our digital age), do the dirty work required to support and economically maintain commodity infrastructure. Yet that is our goal AND ultimate value proposition. If you do not appreciate the contribution made by the flush toilet to the scaleability of our current society... you will understand how to succeed in operations.
+There is no glory in helping ops (the plumbers of our digital age), do the work required to support and economically maintain commodity infrastructure. Yet that is our goal AND ultimate value proposition. If you understand and appreciate the contribution of the flush toilet to the success and scaleability of our current society... you'll value operations.
 
 ---
 ## aur - Project Charter Process
@@ -13,5 +13,5 @@ There is no glory in helping ops (the plumbers of our digital age), do the dirty
 
 ## aur projects
 
-1. [aur-melrose vision](ops/aur-vision.md)
-2. [hed-melrose vision](ops/hed-vision.md)
+1. [aur-melrose vision](ops/aur-vision.html)
+2. [hed-melrose vision](ops/hed-vision.html)
