@@ -2,16 +2,15 @@
 
 # hed - Vision
 
-I am pulling info from the website, but this should be reviewed. 
-I am looking for a touch-stone statement help guide all missions toward the vision.
+Heartland Economic Development
 
 ---
 
-## HED Vision Missions
+## HED - TEC at Melrose Vision Missions
 
 1. Devloper of technology for operations.
-2. Provider of miner hosting.
-3. Provider of mining infrastructure.
+2. Provider of resources for technology developers.
+3. Supporter of technology workers in the local area.
  
 ---
 
