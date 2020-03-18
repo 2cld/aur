@@ -13,5 +13,5 @@ There is no glory in helping ops (the plumbers of our digital age), do the dirty
 
 ## aur projects
 
-1. [aur-melrose vision](ops/aur-vision)
-2. [hed-melrose vision](ops/hed-vision)
+1. [aur-melrose vision](ops/aur-vision.md)
+2. [hed-melrose vision](ops/hed-vision.md)
